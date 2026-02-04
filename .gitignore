@@ -1,0 +1,11 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# outputs (vamos manter os CSV, mas ignorar o modelo)
+outputs/model.joblib
+
+# temporários do Windows
+Thumbs.db
+.DS_Store
